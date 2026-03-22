@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<NationalParks xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+               xsi:noNamespaceSchemaLocation="NationalParks.xsd">
+
+    <NationalPark Rating="4.9">
+        <Name>Grand Canyon</Name>
+        <Phone>928-638-7496</Phone>
+        <Address>
+            <Street>S Entrance Road</Street>
+            <Number>8</Number>
+            <City>Grand Canyon</City>
+            <State>AZ</State>
+        </Address>
+    </NationalPark>
+
+</NationalParks>
